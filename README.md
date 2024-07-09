@@ -37,10 +37,6 @@ This file contains code for testing the trained model on a separate dataset or r
 3. **Run `main.py`:** Execute the `main.py` file to train the machine learning model and evaluate its performance.
 4. **Run `test.py`:** Optionally, run the `test.py` file to test the trained model on new data or real-time transactions.
 
-## Creator
-
-- [Jeet Chauhan](https://github.com/Jeet18t)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
